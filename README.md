@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Zubair2icy/zubair2icy** is a ✨ _special_ ✨ repository because its `README.md` (this file) 
-
+### My name is Zubair Abdulqadir Okhayole
 - 🔭 I’m currently working on building my technical skills in data analysis
 - 🌱 I’m currently learning data analysis in 30 days of learning
 - 👯 I’m looking to collaborate on data analysis projects 
